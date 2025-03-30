@@ -2013,7 +2013,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-expression</artifactId>
-      <version>5.3.21</version>
+      <version>5.3.37</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
